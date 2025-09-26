@@ -1,2 +1,2 @@
-# competitive-coding
-All the practice code for starting competitive programming
+# Competitive Coding
+ geeksforgeeks competitve coding
